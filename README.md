@@ -13,8 +13,6 @@ A simple Tic Tac Toe game built using **HTML, CSS, and JavaScript**.
 - CSS
 - JavaScript
 
-## 📸 Preview
-(Add screenshot here)
 
 ## 📂 How to Run
 1. Clone the repo
